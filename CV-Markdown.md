@@ -1,10 +1,13 @@
 
-
 # Curriculum Vitae - Joelle Duff - Autumn 2016
 
 ![](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/098/2b8/176ff00.jpg)
 
 ----------------------------- 
+********************
+
+
+
 
 ## Personal information
 
@@ -43,6 +46,9 @@
 ##### Career interests 
 *Sustainability, Economic Development, Developing Countries, Development Economics, Sustainable Tourism, Sustainable Development, Sustainable Agriculture*
 
+##### Projects
+
+*Master Thesis Economics* - The Impact of Tourism Sustainability on the Economic Development of a country 
 
 ## Volunteer Work
 
@@ -54,9 +60,7 @@
 
 
 
-## Projects
 
-**Master Thesis Economics** The Impact of Tourism Sustainability on the Economic Development of a country 
 
 
 
