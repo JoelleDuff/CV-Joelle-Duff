@@ -5,6 +5,7 @@
 <h1 id="project_title">CURRICULUM VITAE <br /> Joelle Duff <br /> Autumn 2016</h1>
 <h2 id="project_tagline"></h2>
 
+!>[](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/098/2b8/176ff00.jpg)
             
 </section>
 </header>
