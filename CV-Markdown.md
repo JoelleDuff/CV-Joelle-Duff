@@ -1,5 +1,5 @@
 
-# <span style="color:white">Curriculum Vitae - Joelle Duff - Autumn 2016 </span>
+#<center><span style="color:white">Curriculum Vitae - Joelle Duff - Autumn 2016 </span>
 ===============================
 
 
@@ -11,8 +11,7 @@
 
 
 
-## Personal information
-
+## <span style="color:white">Personal information</span>
 
 **Name** Joelle Mae Duff
 
@@ -24,7 +23,7 @@
 
 **Date of Birth** 14 March 1993
 
-**Nationality** Dutch and English
+**Nationality** Dutch and English</center>
 
 
 ## Experience
