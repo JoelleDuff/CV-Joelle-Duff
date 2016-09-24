@@ -1,17 +1,13 @@
 
-<head>
 # <title>CURRICULUM VITAE</title>
 
 
 # <center><span style="color:white">Joelle Duff - Autumn 2016 </span>
 
-</head>
-****
 
 # <center><span style="color:white">Curriculum Vitae</span>
 
 
-****
 
 ![](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/098/2b8/176ff00.jpg)
 
