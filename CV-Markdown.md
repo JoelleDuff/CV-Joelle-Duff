@@ -1,15 +1,16 @@
+<head>
+
+<title>CURRICULUM VITAE</title>
+
 
 #<center><span style="color:white">Curriculum Vitae - Joelle Duff - Autumn 2016 </span>
 ===============================
 
+</head>
 
 ![](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/098/2b8/176ff00.jpg)
 
-------------------------
-************************
-
-
-
+<body>
 
 ## <span style="color:white">Personal information</span>
 
@@ -24,6 +25,8 @@
 **Date of Birth** 14 March 1993
 
 **Nationality** Dutch and English</center>
+
+</body> 
 
 
 ## Experience
