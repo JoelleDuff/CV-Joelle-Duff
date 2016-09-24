@@ -6,12 +6,16 @@
 
 # <center><span style="color:white">Curriculum Vitae</span>
 
-
+<!-- MAIN CONTENT -->
 
 ![](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/098/2b8/176ff00.jpg)
 
+<a href="mailto:joelle.m.duff@gmail.com">&#9993; joelle.m.duff@gmail.com</a> | <a href="https://nl.linkedin.com/in/duffjoelle" target="_blank">LinkedIn</a> 
+<hr />
 
-<!-- MAIN CONTENT -->
+
+
+
 
 
 ## <span style="color:white">Personal information</span>
@@ -21,8 +25,6 @@
 <span style="color:white">**Address** Spoorlaan 392-83, 5038CE Tilburg, Netherlands</span>
 
 <span style="color:white">**Telephone** 0031 613512737</span>
-
-<span style="color:white">**E-mail** </span>[joelle.m.duff@gmail.com](joelle.m.duff@gmail.com) 
 
 <span style="color:white">**Date of Birth** 14 March 1993</span>
 
