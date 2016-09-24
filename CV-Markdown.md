@@ -1,10 +1,12 @@
 
-# Curriculum Vitae - Joelle Duff - Autumn 2016
+# <span style="color:white">Curriculum Vitae - Joelle Duff - Autumn 2016 </span>
+===============================
+
 
 ![](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/098/2b8/176ff00.jpg)
 
------------------------------ 
-********************
+------------------------
+************************
 
 
 
