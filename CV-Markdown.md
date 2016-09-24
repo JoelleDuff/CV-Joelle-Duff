@@ -1,12 +1,12 @@
 <head>
-  <meta charset='utf-8'>
-  <meta http-equiv="X-UA-Compatible" content="chrome=1">
-  <meta name="description" content="CURRICULUM VITAE : ">
-  <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+<meta charset='utf-8'>
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="description" content="CURRICULUM VITAE : ">
+<link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
-  <title>CURRICULUM VITAE</title>
-     
-  </head>
+<title>CURRICULUM VITAE</title>
+
+</head>
 
 
 <!-- HEADER -->
@@ -14,10 +14,7 @@
 <header class="inner">
           
 <h1 id="project_title">CURRICULUM VITAE <br /> Joelle Duff <br /> Autumn 2016</h1>
-<h2 id="project_tagline"></h2>
-
-![foo](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/098/2b8/176ff00.jp).float-left
-
+<h2 id="project_tagline">![foo](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/098/2b8/176ff00.jp).float-left</h2>
             
 </section>
 </header>
