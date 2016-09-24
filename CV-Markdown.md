@@ -1,12 +1,25 @@
 <!-- HEADER -->
+<div id="header_wrap" class="outer">
+        <header class="inner">
+          
 
+          <h1 id="project_title">CURRICULUM VITAE <br /> Joelle Duff</h1>
+          <h2 id="project_tagline"></h2>
+
+            
+                        </section>
+        </header>
+    </div>
 
 # <center><span style="color:white">Joelle Duff - Autumn 2016 </span>
 
-
 # <center><span style="color:white">Curriculum Vitae</span>
 
-<!-- MAIN CONTENT -->
+
+ <!-- MAIN CONTENT -->
+   <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h3>
 
 ![](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/098/2b8/176ff00.jpg)
 
