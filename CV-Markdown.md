@@ -2,18 +2,13 @@
 <div id="header_wrap" class="outer">
 <header class="inner">
           
-<h1 id="project_title">CURRICULUM VITAE <br /> Joelle Duff</h1>
+<h1 id="project_title">CURRICULUM VITAE <br /> Joelle Duff <br /> Autumn 2016</h1>
 <h2 id="project_tagline"></h2>
 
             
 </section>
 </header>
 </div>
-
-<center><span style="color:white">Joelle Duff - Autumn 2016 </span>
-
-<center><span style="color:white">Curriculum Vitae</span>
-
 
 <!-- MAIN CONTENT -->
 <div id="main_content_wrap" class="outer">
@@ -40,43 +35,40 @@
 
 
 
-## <span style="color:white">Experience</span>
+## Experience
 
-<span style="color:white">**2015 - 2016** Internship *Centre for the Promotion of Import from Developing Countries*</span> *[CBI](https://www.cbi.eu/)*
+**2015 - 2016** Internship *Centre for the Promotion of Import from Developing Countries* *[CBI](https://www.cbi.eu/)*
 
-<span style="color:white">**2006 - Present** Hospitality *Most recent*</span> *[Beachhouse25](http://www.beachhouse25.nl/)*
+**2006 - Present** Hospitality *Most recent* *[Beachhouse25](http://www.beachhouse25.nl/)*
 
-<span style="color:white">**2012 - 2013** Chairwoman International Committee  *Study Association Asset | International Business and Management*</span> *[Asset|International Business and Management](https://asset-ibm.nl/home)*
+**2012 - 2013** Chairwoman International Committee  *Study Association Asset | International Business and Management* *[Asset|International Business and Management](https://asset-ibm.nl/home)*
 
-## <span style="color:white">Education</span>
+## Education
 
-<span style="color:white">**2016 - Present** MSc Economics</span> 
+**2016 - Present** MSc Economics
 *[Tilburg University](https://www.tilburguniversity.edu/education/masters-programmes/economics/)*
 
-<span style="color:white">**2014 - 2015** Pre-Master Economics</span> *[Tilburg University](https://www.tilburguniversity.edu/education/masters-programmes/economics/premaster/)*
+**2014 - 2015** Pre-Master Economics *[Tilburg University](https://www.tilburguniversity.edu/education/masters-programmes/economics/premaster/)*
 
-<span style="color:white">**2011 - 2015** Bachelor International Business Administration</span> *[Tilburg University](https://www.tilburguniversity.edu/education/bachelors-programs/international-business-administration/)*
-
-
-##### <span style="color:white">Career interests</span> 
-
-<span style="color:white">*Sustainability, Economic Development, Developing Countries, Development Economics, Sustainable Tourism, Sustainable Development, Sustainable Agriculture*
-</span>
-
-##### <span style="color:white">Projects</span>
-
-<span style="color:white">*Master Thesis Economics* - The Impact of Tourism Sustainability on the Economic Development of a country</span> 
-
-## <span style="color:white">Volunteer Work</span>
-
-<span style="color:white">**2016** Masters Economics Sounding Board</span>  
-
-<span style="color:white">**2015**</span> [Goei Eete](https://www.goeieete.nl/)
-
-<span style="color:white">**2010 - 2013**</span> [Vestrock Festival](http://www.vestrock.nl/)</center>
+**2011 - 2015** Bachelor International Business Administration *[Tilburg University](https://www.tilburguniversity.edu/education/bachelors-programs/international-business-administration/)*
 
 
+##### Career interests
 
+*Sustainability, Economic Development, Developing Countries, Development Economics, Sustainable Tourism, Sustainable Development, Sustainable Agriculture*
+
+
+##### Projects
+
+*Master Thesis Economics* - The Impact of Tourism Sustainability on the Economic Development of a country
+
+## Volunteer Work
+
+**2016** Masters Economics Sounding Board
+
+**2015** [Goei Eete](https://www.goeieete.nl/)
+
+**2010 - 2013** [Vestrock Festival](http://www.vestrock.nl/)
 
 
 
