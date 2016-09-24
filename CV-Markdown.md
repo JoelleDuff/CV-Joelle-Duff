@@ -1,25 +1,24 @@
 <!-- HEADER -->
 <div id="header_wrap" class="outer">
-        <header class="inner">
+<header class="inner">
           
-
-          <h1 id="project_title">CURRICULUM VITAE <br /> Joelle Duff</h1>
-          <h2 id="project_tagline"></h2>
+<h1 id="project_title">CURRICULUM VITAE <br /> Joelle Duff</h1>
+<h2 id="project_tagline"></h2>
 
             
-                        </section>
-        </header>
-    </div>
+</section>
+</header>
+</div>
 
-# <center><span style="color:white">Joelle Duff - Autumn 2016 </span>
+<center><span style="color:white">Joelle Duff - Autumn 2016 </span>
 
-# <center><span style="color:white">Curriculum Vitae</span>
+<center><span style="color:white">Curriculum Vitae</span>
 
 
- <!-- MAIN CONTENT -->
-   <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h3>
+<!-- MAIN CONTENT -->
+<div id="main_content_wrap" class="outer">
+<section id="main_content" class="inner">
+<h3>
 
 ![](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/098/2b8/176ff00.jpg)
 
@@ -27,21 +26,17 @@
 <hr />
 
 
+## Personal information
 
+**Name** Joelle Mae Duff
 
+**Address** Spoorlaan 392-83, 5038CE Tilburg, Netherlands
 
+**Telephone** 0031 613512737
 
-## <span style="color:white">Personal information</span>
+**Date of Birth** 14 March 1993
 
-<span style="color:white">**Name** Joelle Mae Duff</span> 
-
-<span style="color:white">**Address** Spoorlaan 392-83, 5038CE Tilburg, Netherlands</span>
-
-<span style="color:white">**Telephone** 0031 613512737</span>
-
-<span style="color:white">**Date of Birth** 14 March 1993</span>
-
-<span style="color:white">**Nationality** Dutch and English</span>
+**Nationality** Dutch and English
 
 
 
