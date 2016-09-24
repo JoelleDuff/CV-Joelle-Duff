@@ -3,7 +3,7 @@
 <title>CURRICULUM VITAE</title>
 
 
-#<span style="color:white">Curriculum Vitae - Joelle Duff - Autumn 2016 </span>
+#<center><span style="color:white">Curriculum Vitae - Joelle Duff - Autumn 2016 </span>
 ===============================
 
 </head>
@@ -30,7 +30,7 @@
 </body> 
 
 
-## Experience
+## <span style="color:white">Experience</span>
 
 **2015 - 2016** Internship *Centre for the Promotion of Import from Developing Countries* *[CBI](https://www.cbi.eu/)*
 
@@ -38,7 +38,7 @@
 
 **2012 - 2013** Chairwoman International Committee  *Study Association Asset | International Business and Management* *[Asset|International Business and Management](https://asset-ibm.nl/home)
 
-## Education
+## <span style="color:white">Education</span>
 
 **2016 - Present** MSc Economics 
 *[Tilburg University](https://www.tilburguniversity.edu/education/masters-programmes/economics/)*
@@ -48,20 +48,21 @@
 **2011 - 2015** Bachelor International Business Administration *[Tilburg University](https://www.tilburguniversity.edu/education/bachelors-programs/international-business-administration/)*
 
 
-##### Career interests 
+##### <span style="color:white">Career interests</span> 
+
 *Sustainability, Economic Development, Developing Countries, Development Economics, Sustainable Tourism, Sustainable Development, Sustainable Agriculture*
 
-##### Projects
+##### <span style="color:white">Projects</span>
 
 *Master Thesis Economics* - The Impact of Tourism Sustainability on the Economic Development of a country 
 
-## Volunteer Work
+## <span style="color:white">Volunteer Work</span>
 
 **2016** Masters Economics Sounding Board  
 
 **2015** [Goei Eete](https://www.goeieete.nl/)
 
-**2010 - 2013** [Vestrock Festival](http://www.vestrock.nl/)
+**2010 - 2013** [Vestrock Festival](http://www.vestrock.nl/)</center>
 
 
 
