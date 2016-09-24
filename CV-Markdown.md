@@ -1,9 +1,10 @@
 
 <head>
-<title>CURRICULUM VITAE</title>
+# <title>CURRICULUM VITAE</title>
 
 
-#<center><span style="color:white">Curriculum Vitae - Joelle Duff - Autumn 2016 </span>
+# <center><span style="color:white">Curriculum Vitae - Joelle Duff - Autumn 2016 </span>
+
 </head>
 
 ****
