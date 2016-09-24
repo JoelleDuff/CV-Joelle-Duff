@@ -3,9 +3,13 @@
 # <title>CURRICULUM VITAE</title>
 
 
-# <center><span style="color:white">Curriculum Vitae - Joelle Duff - Autumn 2016 </span>
+# <center><span style="color:white">Joelle Duff - Autumn 2016 </span>
 
 </head>
+****
+
+# <center><span style="color:white">Curriculum Vitae</span>
+
 
 ****
 
@@ -64,6 +68,12 @@
 
 <span style="color:white">**2010 - 2013**</span> [Vestrock Festival](http://www.vestrock.nl/)</center>
 
+
+
+
+
+
+****
 
 
 
