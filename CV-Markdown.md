@@ -1,9 +1,10 @@
 
-
+<head>
 <title>CURRICULUM VITAE</title>
 
 
 #<center><span style="color:white">Curriculum Vitae - Joelle Duff - Autumn 2016 </span>
+</head>
 
 ****
 
@@ -12,54 +13,55 @@
 ****
 
 ## <span style="color:white">Personal information</span>
-<span style="color:white">
-**Name** Joelle Mae Duff
 
-**Address** Spoorlaan 392-83, 5038CE Tilburg, Netherlands
+<span style="color:white">**Name** Joelle Mae Duff</span> 
 
-**Telephone** 0031 613512737
+<span style="color:white">**Address** Spoorlaan 392-83, 5038CE Tilburg, Netherlands</span>
 
-**E-mail** [joelle.m.duff@gmail.com](joelle.m.duff@gmail.com) 
+<span style="color:white">**Telephone** 0031 613512737</span>
 
-**Date of Birth** 14 March 1993
+<span style="color:white">**E-mail** </span>[joelle.m.duff@gmail.com](joelle.m.duff@gmail.com) 
 
-**Nationality** Dutch and English</span>
+<span style="color:white">**Date of Birth** 14 March 1993</span>
+
+<span style="color:white">**Nationality** Dutch and English</span>
 
 
 
 ## <span style="color:white">Experience</span>
 
-**2015 - 2016** Internship *Centre for the Promotion of Import from Developing Countries* *[CBI](https://www.cbi.eu/)*
+<span style="color:white">**2015 - 2016** Internship *Centre for the Promotion of Import from Developing Countries*</span> *[CBI](https://www.cbi.eu/)*
 
-**2006 - Present** Hospitality *Most recent* *[Beachhouse25](http://www.beachhouse25.nl/)*
+<span style="color:white">**2006 - Present** Hospitality *Most recent*</span> *[Beachhouse25](http://www.beachhouse25.nl/)*
 
-**2012 - 2013** Chairwoman International Committee  *Study Association Asset | International Business and Management* *[Asset|International Business and Management](https://asset-ibm.nl/home)
+<span style="color:white">**2012 - 2013** Chairwoman International Committee  *Study Association Asset | International Business and Management*</span> *[Asset|International Business and Management](https://asset-ibm.nl/home)*
 
 ## <span style="color:white">Education</span>
 
-**2016 - Present** MSc Economics 
+<span style="color:white">**2016 - Present** MSc Economics</span> 
 *[Tilburg University](https://www.tilburguniversity.edu/education/masters-programmes/economics/)*
 
-**2014 - 2015** Pre-Master Economics *[Tilburg University](https://www.tilburguniversity.edu/education/masters-programmes/economics/premaster/)*
+<span style="color:white">**2014 - 2015** Pre-Master Economics</span> *[Tilburg University](https://www.tilburguniversity.edu/education/masters-programmes/economics/premaster/)*
 
-**2011 - 2015** Bachelor International Business Administration *[Tilburg University](https://www.tilburguniversity.edu/education/bachelors-programs/international-business-administration/)*
+<span style="color:white">**2011 - 2015** Bachelor International Business Administration</span> *[Tilburg University](https://www.tilburguniversity.edu/education/bachelors-programs/international-business-administration/)*
 
 
 ##### <span style="color:white">Career interests</span> 
 
-*Sustainability, Economic Development, Developing Countries, Development Economics, Sustainable Tourism, Sustainable Development, Sustainable Agriculture*
+<span style="color:white">*Sustainability, Economic Development, Developing Countries, Development Economics, Sustainable Tourism, Sustainable Development, Sustainable Agriculture*
+</span>
 
 ##### <span style="color:white">Projects</span>
 
-*Master Thesis Economics* - The Impact of Tourism Sustainability on the Economic Development of a country 
+<span style="color:white">*Master Thesis Economics* - The Impact of Tourism Sustainability on the Economic Development of a country</span> 
 
 ## <span style="color:white">Volunteer Work</span>
 
-**2016** Masters Economics Sounding Board  
+<span style="color:white">**2016** Masters Economics Sounding Board</span>  
 
-**2015** [Goei Eete](https://www.goeieete.nl/)
+<span style="color:white">**2015**</span> [Goei Eete](https://www.goeieete.nl/)
 
-**2010 - 2013** [Vestrock Festival](http://www.vestrock.nl/)</center>
+<span style="color:white">**2010 - 2013**</span> [Vestrock Festival](http://www.vestrock.nl/)</center>
 
 
 
